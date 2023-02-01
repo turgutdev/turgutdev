@@ -11,14 +11,11 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/turgut_ch#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/turgut_ch#gh-dark-mode-only)
+[![website](./icons/twitter.svg)](https://twitter.com/turgut_ch#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/turgut-ch#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/turgut-ch#gh-dark-mode-only)
+[![website](./icons/linkedin.svg)](https://linkedin.com/in/turgut-ch#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/turgut.ch#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/turgut.ch#gh-dark-mode-only)
+[![website](./icons/instagram.svg)](https://instagram.com/turgut.ch#gh-dark-mode-only)
 
 ### Languages and Tools:
 
