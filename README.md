@@ -30,7 +30,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=turgutdev" />
  
-<img src="[https://github-readme-stats.vercel.app/api?username=turgutdev](https://github-readme-stats.vercel.app/api/top-langs/?username=turgutdev&layout=compact)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turgutdev&layout=compact" />
   
 
 #### Top Repositories
