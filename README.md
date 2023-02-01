@@ -11,11 +11,11 @@
 
 ### Connect with me:
 
-[![website](./icons/twitter.svg width="26px")](https://twitter.com/turgut_ch#gh-light-mode-only)
+[![website](./icons/twitter.svg) width="26px"(https://twitter.com/turgut_ch#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./icons/linkedin.svg) width="26px"](https://linkedin.com/in/turgut-ch#gh-light-mode-only)
+[![website](./icons/linkedin.svg) width="26px"(https://linkedin.com/in/turgut-ch#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./icons/instagram.svg) width="26px"](https://instagram.com/turgut.ch#gh-dark-mode-only)
+[![website](./icons/instagram.svg) width="26px"(https://instagram.com/turgut.ch#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -34,14 +34,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://# Hi there, I'm Doctor Turgut 👋 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/turgut_ch?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fturgut_ch&screen_name=turgut_ch)
-
 ## I was a Dentist, and now I'm a Developer !!!
 
 
