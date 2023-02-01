@@ -27,7 +27,7 @@
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="[[https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png](https://icons8.com/icon/62856/github)](https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css)" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="26px" src="[[[https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png](https://icons8.com/icon/62856/github)](https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css)"](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg) style="padding-right:10px;" />]
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
 
 <br />
