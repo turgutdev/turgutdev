@@ -28,9 +28,9 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" style="padding-right:10px;" />]
   
-<img src="https://github-readme-stats.vercel.app/api?username=turgutdev" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=turgutdev" />
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turgutdev&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turgutdev&layout=compact" />
   
 
 #### Top Repositories
