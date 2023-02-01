@@ -37,8 +37,8 @@
 <a href="https://github.com/turgutdev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=turgutdev&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/turgutdev/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=turgutdev&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/turgutdev/turgutdev.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=turgutdev&repo=turgutdev.github.io&theme=buefy" />
 </a>
 
 <br />
