@@ -11,11 +11,12 @@
 
 ### Connect with me:
 
-[![website](./icons/twitter.svg) width="26px"(https://twitter.com/turgut_ch#gh-light-mode-only)
+[<img align="left" alt="turgutdev" | Twitter" width="22px" https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />]
 &nbsp;&nbsp;
-[![website](./icons/linkedin.svg) width="26px"(https://linkedin.com/in/turgut-ch#gh-light-mode-only)
+[<img align="left" alt="turgutdev" | Linkedin" width="22px" https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />]
 &nbsp;&nbsp;
-[![website](./icons/instagram.svg) width="26px"(https://instagram.com/turgut.ch#gh-dark-mode-only)
+[<img align="left" alt="turgutdev" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />]
+
 
 ### Languages and Tools:
 
