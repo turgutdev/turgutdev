@@ -1,6 +1,6 @@
 # Hi there, I'm Doctor Turgut 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/turgut_ch?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fturgut_ch&screen_name=turgut_ch)
+[![Twitter Follow](https://img.shields.io/twitter/follow/turgutdev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fturgutdev&screen_name=turgut_ch)
 
 ## I was a Dentist, and now I'm a Developer !!!
 
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@turgut_ch-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/turgut_ch)](https://twitter.com/turgut_ch) [![Linkedin Badge](https://img.shields.io/badge/-turgut_ch-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turgut-ch/) [![Mail Badge](https://img.shields.io/badge/-@turgut.ch-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/turgut.ch)
+[![Twitter Badge](https://img.shields.io/badge/-@turgutdev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/turgutdev)](https://twitter.com/turgutdev) [![Linkedin Badge](https://img.shields.io/badge/-turgutdev-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turgutdev/) [![Mail Badge](https://img.shields.io/badge/-@turgut.ch-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/turgut.ch)
 
 
 ### Languages and Tools:
@@ -33,6 +33,6 @@
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turgutdev&layout=compact" />
 
 
-[twitter]: https://twitter.com/turgut_ch
+[twitter]: https://twitter.com/turgutdev
 [instagram]: https://instagram.com/turgut.ch
-[linkedin]: https://linkedin.com/in/turgut-ch
+[linkedin]: https://linkedin.com/in/turgutdev
