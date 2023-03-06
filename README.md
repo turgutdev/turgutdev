@@ -5,7 +5,7 @@
 ## I was a Dentist, and now I'm a Developer !!!
 
 
-- 🌱 I’m currently learning JavaScript and React.js
+- 🌱 I’m currently learning JavaScript and React
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Learn more about Web and Mobile Development 
 - ✉️ How to reach me: dr.chichakchi@gmail.com
