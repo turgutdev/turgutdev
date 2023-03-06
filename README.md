@@ -1,6 +1,6 @@
 # Hi there, I'm Doctor Turgut 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/turgutdev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fturgutdev&screen_name=turgut_ch)
+[![Twitter Follow](https://img.shields.io/twitter/follow/turgutdev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fturgutdev&screen_name=turgutdev)
 
 ## I was a Dentist, and now I'm a Developer !!!
 
